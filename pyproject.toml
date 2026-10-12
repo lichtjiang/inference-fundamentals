@@ -1,0 +1,12 @@
+[project]
+name = "inference-fundamentals"
+version = "0.1.0"
+description = "Inference fundamentals..."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "psutil>=7.2.2",
+    "torch==2.2.2",
+    "torchvision==0.17.2",
+    "transformers==4.39.3",
+]
